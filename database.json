@@ -1,0 +1,212 @@
+{
+    "cupons": [
+        {
+            "cod": "ELDORADO_30",
+            "discount": 30
+        },
+        {
+            "cod": "ELDORADO_40",
+            "discount": 40
+        },
+        {
+            "cod": "ELDORADO_50",
+            "discount": 50
+        }
+    ],
+    "products": [
+        {
+            "sku": "A100",
+            "name": "Nevermind",
+            "author": "Nirvana",
+            "release": "",
+            "description": "",
+            "price": 100.00,
+            "bitDiscount": false,
+            "category": "discos",
+            "images": ["https://m.media-amazon.com/images/I/91G5ndi8yFL._AC_SL1500_.jpg"],
+            "tracklist": [
+                {
+                    "name": "Smells Like Teen Spirit",
+                    "time": "5:01"
+                },
+                {
+                    "name": "In Bloom",
+                    "time": "4:15"
+                },
+                {
+                    "name": "Come As You Are",
+                    "time": "3:38"
+                }
+            ]
+        },
+        {
+            "sku": "A200",
+            "name": "Sobrevivendo no Inferno",
+            "author": "Racionais MC's",
+            "release": "",
+            "description": "",
+            "price": 300.00,
+            "bitDiscount": false,
+            "category": "discos",
+            "images": ["https://upload.wikimedia.org/wikipedia/pt/thumb/3/36/Sobrevivendo_no_Inferno.jpg/220px-Sobrevivendo_no_Inferno.jpg"],
+            "tracklist": [
+                {
+                    "name": "Hang UP",
+                    "time": "5:37"
+                },
+                {
+                    "name": "Sorry",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Jump",
+                    "time": "6:28"
+                }
+            ]
+        },
+        {
+            "sku": "A300",
+            "name": "Metallica",
+            "author": "Metallica",
+            "release": "",
+            "description": "",
+            "price": 180.00,
+            "bitDiscount": false,
+            "category": "discos",
+            "images": ["https://m.media-amazon.com/images/I/61Na6eN05jS._AC_SL1500_.jpg"],
+            "tracklist": [
+                {
+                    "name": "Enter Sandman",
+                    "time": "5:31"
+                },
+                {
+                    "name": "Sad But True",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Nothing Else Matters",
+                    "time": "6:28"
+                }
+            ]
+        },
+        {
+            "sku": "A400",
+            "name": "Confessions on a Dancefloor",
+            "author": "Madonna",
+            "release": "",
+            "description": "",
+            "price": 85.00,
+            "bitDiscount": false,
+            "category": "discos",
+            "images": ["https://upload.wikimedia.org/wikipedia/pt/a/a3/Confessions_on_a_Dancefloor_Madonna.jpg"],
+            "tracklist": [
+                {
+                    "name": "Enter Sandman",
+                    "time": "5:31"
+                },
+                {
+                    "name": "Sad But True",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Nothing Else Matters",
+                    "time": "6:28"
+                }
+            ]
+        },
+        {
+            "sku": "A500",
+            "name": "Salad Days",
+            "author": "Mac DeMarco",
+            "release": "",
+            "description": "",
+            "price": 50.00,
+            "bitDiscount": false,
+            "category": "discos",
+            "images": ["https://m.media-amazon.com/images/I/6137pVL5iJS._AC_SY355_.jpg"],
+            "tracklist": [
+                {
+                    "name": "Salad Days",
+                    "time": "5:31"
+                },
+                {
+                    "name": "Blue Boy",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Chamber Of Reflection",
+                    "time": "6:28"
+                }
+            ]
+        },
+        {
+            "sku": "A600",
+            "name": "Queen - Live At Wembley",
+            "author": "Queen",
+            "release": "",
+            "description": "",
+            "price": 130.00,
+            "bitDiscount": false,
+            "category": "dvd",
+            "images": ["https://m.media-amazon.com/images/I/91l4r55mB2L._AC_SX679_.jpg"],
+            "tracklist": [
+                {
+                    "name": "Salad Days",
+                    "time": "5:31"
+                },
+                {
+                    "name": "Blue Boy",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Chamber Of Reflection",
+                    "time": "6:28"
+                }
+            ]
+        },
+        {
+            "sku": "A700",
+            "name": "This Is Why",
+            "author": "Paramore ",
+            "release": "",
+            "description": "",
+            "price": 60.00,
+            "bitDiscount": false,
+            "category": "cd",
+            "images": ["https://www.paramore.net/sites/g/files/g2000015141/files/2022-09/TIW_Album%402x.jpg"],
+            "tracklist": [
+                {
+                    "name": "Salad Days",
+                    "time": "5:31"
+                },
+                {
+                    "name": "Blue Boy",
+                    "time": "5:23"
+                },
+                {
+                    "name": "Chamber Of Reflection",
+                    "time": "6:28"
+                }
+            ]
+        }
+    ],
+    "tracks": [
+        {
+            "sku": "A100",
+            "songs": [
+                {
+                    "name": "Smells Like Teen Spirit",
+                    "time": "5:01"
+                },
+                {
+                    "name": "In Bloom",
+                    "time": "4:15"
+                },
+                {
+                    "name": "Come As You Are",
+                    "time": "3:38"
+                }
+            ]
+        }
+    ]
+}

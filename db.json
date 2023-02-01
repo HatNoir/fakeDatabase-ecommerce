@@ -210,13 +210,6 @@
         }
     ],
     "users": [
-        {
-            "id": 1,
-            "nome": "Luan Alves",
-            "email": "Luan.alves@eldorado.com.br",
-            "senha": "12345678910",
-            "cpf": "12345678910",
-            "telefone": "19981025195"
-        }
+
     ]
 }
